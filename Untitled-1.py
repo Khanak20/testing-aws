@@ -319,7 +319,7 @@
 
 
 
-import boto3
+#import boto3
 import sys
 
 def create_certificate(domain_name, validation_method):
